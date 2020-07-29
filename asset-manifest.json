@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Create_Note_APP_V2_live/static/css/main.ebb773b2.chunk.css",
+    "main.js": "/Create_Note_APP_V2_live/static/js/main.b26444ef.chunk.js",
+    "main.js.map": "/Create_Note_APP_V2_live/static/js/main.b26444ef.chunk.js.map",
+    "runtime-main.js": "/Create_Note_APP_V2_live/static/js/runtime-main.cc1dbe07.js",
+    "runtime-main.js.map": "/Create_Note_APP_V2_live/static/js/runtime-main.cc1dbe07.js.map",
+    "static/js/2.019562af.chunk.js": "/Create_Note_APP_V2_live/static/js/2.019562af.chunk.js",
+    "static/js/2.019562af.chunk.js.map": "/Create_Note_APP_V2_live/static/js/2.019562af.chunk.js.map",
+    "index.html": "/Create_Note_APP_V2_live/index.html",
+    "precache-manifest.e07aa847bd504273dc8bb3c6189a885c.js": "/Create_Note_APP_V2_live/precache-manifest.e07aa847bd504273dc8bb3c6189a885c.js",
+    "service-worker.js": "/Create_Note_APP_V2_live/service-worker.js",
+    "static/css/main.ebb773b2.chunk.css.map": "/Create_Note_APP_V2_live/static/css/main.ebb773b2.chunk.css.map",
+    "static/js/2.019562af.chunk.js.LICENSE.txt": "/Create_Note_APP_V2_live/static/js/2.019562af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc1dbe07.js",
+    "static/js/2.019562af.chunk.js",
+    "static/css/main.ebb773b2.chunk.css",
+    "static/js/main.b26444ef.chunk.js"
+  ]
+}
